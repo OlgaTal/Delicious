@@ -1,4 +1,4 @@
-# delicious
+## delicious: bookmarks app
 React and TDD
 
 Code coverage result is in:
